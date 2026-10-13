@@ -1,0 +1,19 @@
+/*
+TP CSS3 — Dashboard complet
+Feuille volontairement presque vide : les étudiants réalisent la mise en forme.
+N'utilisez pas de framework CSS.
+*/
+
+/* Activité 1 : sélecteurs q1: a/q2:nav a/q3:.navigation a:first-child/q4:.navigation a:hover/q5:.navigation a	*/
+/* Activité 2 : cascade, spécificité et héritage q1:Rouge/q2:le navigateur garde la regle la plus elevée/q3:ID est emporter sur #message donc il gagne/q4:Le paragraphe devient bleu si on le meetre apres bleu ou vert si on le met apres vert*/
+/* Activité 3 : Box Model q1:300px/q2:382px/q3:le content-box est le contenu seul et le border-box est contenu+pading+border*/
+/* Activité 4 : Flexbox q1: lescartes debordent l'écran*/
+/* Activité 5 : CSS Grid q1:fr veut dire fraction de l'espace disponible comme la colonne de gauche fait 220px fixes, et 1fr donne tout le reste à la colonne de droite /q2:C'est début / fin en numéros de lignes de grille/q3:Grid structure la page, et Flexbox organise l'intérieur du header, du menu et des cartes*/
+/* Activité 6 : Responsive Design q1:La largeur de la fenêtre (viewport) est inférieure ou égale à 768px/q2:Dès que la fenêtre fait 768px ou moins/q3:min signifie largeur<768px et max largeur>768px */
+/* Activité 7 : variables, pseudo-classes et transitions q1:Une valeur est définie une seule fois et réutilisée partout */
+/* Activité 8 : défi final 
+Quand utiliser Flexbox ?	Pour organiser des éléments sur un seul axe (menu, rangée de cartes, centrage).
+Quand utiliser Grid ?	Pour une organisation en deux dimensions (structure d'une page, galerie).
+Quand utiliser position ?	Pour un placement particulier : élément collé en haut au défilement (sticky), badge ou menu déroulant par-dessus un autre (absolute), barre fixe (fixed).
+Quand utiliser les media queries ?	Pour adapter la présentation à la taille de l'écran.
+Quand utiliser les variables CSS ?	Pour centraliser les valeurs réutilisées (couleurs, espacements) et faciliter la maintenance.*/

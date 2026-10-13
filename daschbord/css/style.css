@@ -1,0 +1,32 @@
+.navigation a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+}
+.navigation > a {
+    font-weight: bold;
+    background-color: #333;
+    border-radius: 5px;
+}
+p {
+ color: blue !important;
+}
+.content p {
+color: green;
+}
+#message {
+color: red;
+}
+.card {
+width: 300px;
+padding: 20px;
+border: 1px solid #ddd;
+margin: 20px;
+}
+* {
+  box-sizing: border-box;
+}
+.cards {
+  display: flex;
+}
